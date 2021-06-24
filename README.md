@@ -1,6 +1,6 @@
 # rock paper scissor
 <p align="center">
-  <img src="https://github.com/android-iceland/rock_paper_scissor/blob/main/example.gif" alt="animated" />
+  <img src="https://github.com/oxmp/rock_paper_scissors/blob/main/example.gif" alt="animated" />
 </p>
 <br>
 
